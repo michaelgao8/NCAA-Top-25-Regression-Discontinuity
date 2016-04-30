@@ -1,3 +1,8 @@
+
+library(rvest)
+library(dplyr)
+library(lubridate)
+library(stringr)
 # The following code scrapes ESPN for the top 25 rankings and also fringe rankings (26+)
 
 
